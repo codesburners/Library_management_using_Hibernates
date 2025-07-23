@@ -86,7 +86,7 @@ Academic projects or backend practice apps
 👤 Author
 Gowtham G
 🎓 3rd Year Integrated M.Tech, VIT Vellore
-🔗 LinkedIn (replace with your actual profile)
+🔗 LinkedIn (www.linkedin.com/in/gowtham-g-b38241338)
 
 📄 License
 This project is free to use for academic or personal learning purposes.
